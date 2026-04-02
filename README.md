@@ -13,8 +13,10 @@ The goal of this dashboard is to help stakeholders make data-driven decisions by
 🌍 Geographical Insights – Location-based performance tracking
 📈 Interactive Filters – Drill down by category, date, or region
 🛠️ Tools & Technologies
+
 Power BI Desktop
 Data Modeling & DAX
+
 Data Cleaning & Transformation (Power Query)
 📂 Project Structure
 📁 Transportation-Analytics
@@ -22,27 +24,29 @@ Data Cleaning & Transformation (Power Query)
 │-- 📄 README.md                    # Project documentation
 🚀 How to Use
 Download the .pbix file from this repository
+
 Open it using Power BI Desktop
+
 Explore the dashboard using filters and visuals
 📸 Dashboard Preview
 
-(You can add screenshots here after uploading to GitHub)
-
 Example:
 
-![Dashboard Screenshot](images/dashboard.png)
 📈 Key Insights (Example)
 Peak transportation activity occurs during specific time periods
 Certain routes generate higher revenue
 Operational inefficiencies can be identified through delay patterns
+
 🎯 Use Cases
 Transportation companies
 Logistics & supply chain analysis
 Fleet management
 Business intelligence reporting
+
 🔮 Future Improvements
 Real-time data integration
 Advanced predictive analytics
 More granular location-based insights
+
 👤 Author
 Rajani Karthik
